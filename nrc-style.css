@@ -1,0 +1,25 @@
+h1, h2, p{
+	padding: 2px;
+	font-family: Georgia;
+}
+
+h2{
+	font-size: 18px;
+	font-weight: normal;
+}
+
+
+img.pages {
+	width: 600px;
+	padding: 0px;
+	float: left;
+}
+
+img.fusion{
+	width: 596px;
+	padding: 1px;
+}
+
+
+
+
